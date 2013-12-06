@@ -1,0 +1,13 @@
+class Customer
+
+will store Income, Expenses, and Balance
+
+
+class Transaction
+
+will create an object off CSV, storing date, amount, and type
+
+class Bank
+
+will process a transaction, and charge an overdraft if necessary.
+
